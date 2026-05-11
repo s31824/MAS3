@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAS3", "MAS3\MAS3.csproj", "{22CA44B0-E77D-4668-B065-A4276E0FE7B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAS3.Test", "MAS3.Test\MAS3.Test.csproj", "{9BAE99F4-5531-44EC-AB8E-3838190A14D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CA44B0-E77D-4668-B065-A4276E0FE7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CA44B0-E77D-4668-B065-A4276E0FE7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CA44B0-E77D-4668-B065-A4276E0FE7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CA44B0-E77D-4668-B065-A4276E0FE7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAE99F4-5531-44EC-AB8E-3838190A14D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAE99F4-5531-44EC-AB8E-3838190A14D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAE99F4-5531-44EC-AB8E-3838190A14D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAE99F4-5531-44EC-AB8E-3838190A14D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
